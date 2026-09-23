@@ -7,7 +7,7 @@
 <p align="center">
   <img
     src="2e32c941-ee7b-442b-ada8-c0ac0ac07e18.png"
-    width="100%"
+    width="86%"
     alt="NUWKET — O repositório que não deveria existir"
   />
 </p>
@@ -41,6 +41,3 @@
 </p>
 
 <br>
-
-
-╚══════════════════════════════════════════════════════════════════════╝
